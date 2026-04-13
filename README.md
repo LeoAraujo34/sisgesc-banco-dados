@@ -32,16 +32,16 @@ Regras de Negócio (Resumo)
 
 ---
 
-## 🚀 Possíveis Expansões (BI e IA)
+Possíveis Expansões (BI e IA)
 
-* 📈 Análise de evasão escolar
-* 💳 Monitoramento de inadimplência
-* 🤖 Previsão de comportamento de alunos
-* 🎯 Recomendações de cursos com base em perfil
+* Análise de evasão escolar
+* Monitoramento de inadimplência
+* Previsão de comportamento de alunos
+* Recomendações de cursos com base em perfil
 
 ---
 
-## 📌 Observações
+## Observações
 
 Este projeto foi desenvolvido para fins acadêmicos, com foco em modelagem de banco de dados relacional, normalização (3FN) e integridade de dados, turma de banco de dados do curso de Ananalise e Desenvolvimento de Sistemas.
 
