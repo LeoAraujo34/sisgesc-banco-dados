@@ -56,7 +56,31 @@ https://dbdiagram.io/d/DER-SisGesc-69d556f980896296843e5c3d
 * Recomendação de cursos por perfil
 * Indicadores financeiros e acadêmicos
 
-
 # Observações
 
 Este projeto foi desenvolvido para fins acadêmicos na disciplina de Banco de Dados do curso de Análise e Desenvolvimento de Sistemas.
+
+## Como Executar o Projeto
+
+### Requisitos
+
+- MySQL Server
+- MySQL Workbench
+
+### Passo a Passo
+
+1. Baixe o arquivo `.sql` disponível neste repositório do GitHub.
+
+2. Abra o MySQL Workbench.
+
+3. Conecte-se ao seu servidor MySQL local.
+
+4. Abra o arquivo `.sql` do projeto:
+
+- Vá em `File > Open SQL Script`
+- Selecione o arquivo SQL do projeto
+
+5. Execute o script:
+
+- Clique no ícone de raio ⚡ ou pressione:
+  `Ctrl + Shift + Enter`
