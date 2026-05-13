@@ -42,13 +42,6 @@ O sistema foi desenvolvido com foco em:
 * Folha de pagamento
 * Registro de pagamentos aos professores
 
-
-# Tecnologias Utilizadas
-
-* MySQL
-* dbdiagram.io
-* GitHub
-
 # Acesso ao DER Online
 
 https://dbdiagram.io/d/DER-SisGesc-69d556f980896296843e5c3d
